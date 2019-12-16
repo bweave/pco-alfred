@@ -55,11 +55,12 @@ Issues and PRs welcome!
 
 ## Development
 
-- Clone this repo to your `~/Code` directory: `cd ~/Code && git clone https://github.com/bweave/pco-alfred`
+- `cd ~/Code`
+- `git clone https://github.com/bweave/pco-alfred`
+- `cd pco-alfred`
+- `rake link_to_alfred` to symlink your working dir to Alfred workflows dir. It should now show up in the Workflows sidebar
 
-TODO
-
-- [ ] Build a Rake task to symlink working dir to Alfred workflows dir
+`rake unlink_from_alfred` is also available, and it does what it says on the tin.
 
 ### Running the tests
 
