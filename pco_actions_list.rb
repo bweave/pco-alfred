@@ -16,6 +16,8 @@ class PcoActionsList
     { name: "Expensify", desc: "Track your expenses", value: "https://www.expensify.com/inbox", icon: "img/expensify.png" },
     { name: "ADP MyADP", desc: "", value: "https://my.adp.com/static/redbox/login.htmll", icon: "img/adp.png" },
     { name: "ADP TotalSource", desc: "", value: "https://online.adp.com/totalsource/login.html", icon: "img/adp.png" },
+    { name: "Bamboo", desc: "", value: "https://pco.bamboohr.com/home/", icon: "img/bamboo.png" },
+    { name: "Betterment", desc: "", value: "https://wwws.betterment.com/app/summary", icon: "img/betterment.png" },
   ].freeze
 
   def self.to_json
