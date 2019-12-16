@@ -370,7 +370,7 @@
 	<key>createdby</key>
 	<string>Brian Weaver</string>
 	<key>description</key>
-	<string>All things Planning Center</string>
+	<string>PCO Alfred is a collection of links and tasks to speed up your workday at Planning Center.</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
@@ -1134,9 +1134,10 @@ end</string>
 		</dict>
 	</array>
 	<key>readme</key>
-	<string>A set of actions for all things Planning Center.
+	<string>PCO Alfred is a collection of links and tasks to speed up your workday at Planning Center.
 
-Type "pco" in the Alfred search bar to get started.</string>
+
+Type "pco", or "box" in the Alfred search bar to get started.</string>
 	<key>uidata</key>
 	<dict>
 		<key>0DFF367C-D906-46E7-B652-79862EAB172D</key>
@@ -1352,6 +1353,6 @@ Type "pco" in the Alfred search bar to get started.</string>
 	<key>version</key>
 	<string>0.0.1</string>
 	<key>webaddress</key>
-	<string>https://planning.center</string>
+	<string>https://github.com/bweave/pco-alfred</string>
 </dict>
 </plist>
