@@ -58,12 +58,10 @@ Issues and PRs welcome!
 - `cd ~/Code`
 - `git clone https://github.com/bweave/pco-alfred`
 - `cd pco-alfred`
+- `bundle install`
 - `rake link_to_alfred` to symlink your working dir to Alfred workflows dir. It should now show up in the Workflows sidebar
-
-`rake unlink_from_alfred` is also available, and it does what it says on the tin.
+- `rake unlink_from_alfred` is also available, and it does what it says on the tin.
 
 ### Running the tests
 
-TODO
-
-- [ ] Add some Minitest
+`bundle exec rake` to run the tests. The testing setup is Minitest. Nothing fancy.
