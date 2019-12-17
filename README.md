@@ -65,3 +65,13 @@ Issues and PRs welcome!
 ### Running the tests
 
 `bundle exec rake` to run the tests. The testing setup is Minitest. Nothing fancy.
+
+Try using the [rerun gem](https://github.com/alexch/rerun/) for quick feedback.
+
+```
+$ rerun -cxb --no-notify --dir . -- bundle exec rake
+```
+
+## Acknoledgements
+
+- [Alfred2 Ruby Template](https://github.com/zhaocai/alfred2-ruby-template) served as a solid jumping off point for this project ❤️
