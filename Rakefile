@@ -15,7 +15,6 @@ end
 
 Rake::TestTask.new(:test) do |t|
   t.libs << "test"
-  t.libs << Dir.pwd
   t.test_files = FileList["test/**/*_test.rb"]
 end
 
