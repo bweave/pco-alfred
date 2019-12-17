@@ -23,6 +23,7 @@ Download [PCO_Alfred.alfredworkflow](PCO_Alfred.alfredworkflow), double click an
   - "Box" jumps to the "box" keyword
   - "API Docs" browser link
   - "VictorOps" browser link
+  - "All the Sidekiqs" browser link (requires active VPN connection - this could be handled in the future)
   - "Sidekiq" browser link (allows choosing app and env)
   - "Picodex" browser link
   - "Lunchbox" browser link
